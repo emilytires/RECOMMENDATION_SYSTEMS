@@ -26,4 +26,6 @@ The main families of methods for recommendation system are Collaborative Filteri
   
   4. Single Value Decompositon
 
-  Matrix decomposition is a powerful technique to find the hidden structure behind the data. SVD, PCA, NMF,etc.,are popular decomposition models. So it can be used for recommendation systems.
+  Matrix decomposition is a powerful technique to find the hidden structure behind the data. SVD, PCA, NMF,etc.,are popular decomposition models. It can be used for recommendation systems. 
+  
+  Surprise is a Python scikit for building and analyzing recommender systems that deal with explicit rating data
