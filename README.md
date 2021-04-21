@@ -23,3 +23,7 @@ The main families of methods for recommendation system are Collaborative Filteri
  3. Hybrid System
 
   This method uses combining collaborative filtering and content-based filtering could be more effective than content based filtering and collaborative filtering approaches in some cases. 
+  
+  4. Single Value Decompositon
+
+  Matrix decomposition is a powerful technique to find the hidden structure behind the data. SVD, PCA, NMF,etc.,are popular decomposition models. So it can be used for recommendation systems.
